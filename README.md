@@ -44,12 +44,6 @@ SemptomAnalizApp/
 └── README.md                        # Çalıştırma ve Kurulum Talimatı
 ```
 
-*   **Gereksinim Analizi Raporu (PDF):** [docs/GereksinimAnalizi.pdf](docs/GereksinimAnalizi.pdf)
-*   **UML Tasarım Diyagramları (PDF):** [docs/UML_Diyagramlari.pdf](docs/UML_Diyagramlari.pdf)
-*   **Modüler Sistem Tasarımı Raporu (PDF):** [docs/ModulerTasarim.pdf](docs/ModulerTasarim.pdf)
-*   **Genel Proje Raporu (PDF):** [docs/SemptomAnaliz-Dokumantasyon.pdf](docs/SemptomAnaliz-Dokumantasyon.pdf)
-
----
 
 ## OOP Özellikleri ve Hata Yönetimi
 
