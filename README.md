@@ -3,8 +3,6 @@
 Bireysel sağlık farkındalığı için semptom benzerlik analiz uygulaması.  
 ASP.NET Core 9 MVC + PostgreSQL (Supabase) + Clean Architecture.
 
-**Hazırlayanlar:** Arda Elibüyük, Furkan Taşdelen — Bilgisayar Programcılığı  
-**Tarih:** Nisan 2026
 
 > **Önemli:** Bu uygulama tıbbi teşhis veya tavsiye vermez.
 > Sonuçlar yalnızca istatistiksel benzerlik analizidir.
